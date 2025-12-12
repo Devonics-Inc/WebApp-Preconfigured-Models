@@ -1,6 +1,6 @@
-# Preconfigured WebAPP
+# Preconfigured WebAPP Simulator
 
-This guide explains how to download, extract, and run the appropriate WebAPP Docker image for your robot model, allowing you to use the system without any manual configuration or password entry.
+This guide explains how to download, extract, and run the appropriate WebAPP Docker image for your robot simulator, allowing you to use the simulator without any manual configuration or password entry.
 
 ---
 
